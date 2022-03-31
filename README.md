@@ -38,3 +38,10 @@
    >> No dia **1 de Janeiro de 1985**, a **NORDUnet**, uma espécie de agência internacional que conecta as redes nacionais de pesquisa e de educação dos países nórdicos, criou o **nordu.net**.
    >> A entidade, sediada na Dinamarca, segue na activa e o site também.
    
+ - Como funciona a Internet?
+   
+   > *Backbone* ou **espinha dorsal**: serve para gerenciar o tráfego de internet, as conexões e dela saem várias ramificações que interligam outras redes ou outros backbones.
+   >> Cada país pode ter um ou mais backbones e geralmente costumam ser as empresas telefónicas, que contratam os serviços do backbone e os repassam ao cliente final.
+
+
+   
