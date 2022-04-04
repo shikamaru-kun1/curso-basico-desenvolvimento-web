@@ -43,5 +43,30 @@
    > *Backbone* ou **espinha dorsal**: serve para gerenciar o tráfego de internet, as conexões e dela saem várias ramificações que interligam outras redes ou outros backbones.
    >> Cada país pode ter um ou mais backbones e geralmente costumam ser as empresas telefónicas, que contratam os serviços do backbone e os repassam ao cliente final.
 
-
+ - Web-server
+ 
+   > Existem dois tipos: estático e dinâmico.
+   >
+   >> Estático: é um computador físico, ou seja, é o computador onde são armazenados os softwares, arquivos e as bases de dados.
+   >
+   >> Dinâmico: são os softwares que estão alocados no servidor físico.
+   >
+   >> Web-service: é uma interface disponibilizada para se efectuar requisições e consultas em bases de dados inacessíveis.
    
+ - Stacks Tecnológicas de uma Empresa
+ 
+   > O que são stacks: são pilhas de tecnologia, ou seja, um conjunto de softwares necessários para executar um aplicativo.
+   >> Podem ser as linguagens de programação utilizadas pela empresa, podem ser os ambientes de desenvolvimento, de testes e de produção de softwares.
+   >> Podem ser as ferramentas de interacção com a sua aplicação.
+   >
+   > Sistemas operativos, SGBDs ou bases de dados e as suas versões, linguagens de programação, ambientes de desenvolvimento ou IDEs e as suas versões, protocolos de comunicação.
+   >
+   > Limitações e capacidades das ferramentas disponíveis para o desenvolvimento.
+   >
+    - Estratégias de negócio;
+    - Quem são os concorrentes e onde conseguimos nos colocar no mercado;
+    - Maturidade de desenvolvimento da empresa e dos programadores;
+    - Plano de mitigações de riscos, falhas;
+    - Uso de dados: velocidade de transferência dos dados, o tipo de conexão, a comunicação entre a base de dados e a aplicação-
+	
+
